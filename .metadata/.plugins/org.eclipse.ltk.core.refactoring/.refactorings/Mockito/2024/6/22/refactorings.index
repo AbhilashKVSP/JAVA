@@ -1,0 +1,7 @@
+1717243038525	Rename type 'someBusinessImplTest'
+1717243965565	Rename type 'BusinessImplTest'
+1717243986479	Copy compilation unit
+1717244782492	Rename type 'BusinessImplStubTest'
+1717244797912	Rename type 'BusinessImplMockTest'
+1717244965109	Inline local variable 'result'
+1717244979576	Inline local variable 'result'

@@ -1,0 +1,13 @@
+spring.application.name: LearnConfig
+
+my:
+ name: myApp
+ Greeting: Welcome to ${my.name}
+ takeDefault: notDefault
+ list: a,bc,def,ghi
+ map: {conn:'abc',db:'def'}
+
+prop-cls:
+ username: Abhilash
+ password: abbui
+ role: Admin

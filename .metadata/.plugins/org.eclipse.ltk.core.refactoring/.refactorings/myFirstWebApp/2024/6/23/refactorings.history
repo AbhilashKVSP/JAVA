@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;SpringSecurityConfig.java&apos; to &apos;first-restApp/src/main/java/com.LearnRest.first_restApp&apos;&#x0D;&#x0A;- Original project: &apos;myFirstWebApp&apos;&#x0D;&#x0A;- Destination element: &apos;first-restApp/src/main/java/com.LearnRest.first_restApp&apos;&#x0D;&#x0A;- Original element: &apos;com.ToDoApp.springBoot.myFirstWebApp.Security.SpringSecurityConfig.java&apos;" description="Copy compilation unit" destination="=first-restApp/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.LearnRest.first_restApp" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.ToDoApp.springBoot.myFirstWebApp.Security{SpringSecurityConfig.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1717708656713" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,22 @@
+org.opentest4j.AssertionFailedError: expected: <{
+  "id": "Question1",
+  "description":"Most Popular Cloud Platform Today",
+  "options":[
+    "AWS",
+    "Azure",
+    "Google Cloud",
+    "Oracle Cloud"
+  ],
+  "correctAnswer": "AWS"
+}> but was: <{"id":"Question1","description":"Most Popular Cloud Platform Today","options":["AWS","Azure","Google Cloud","Oracle Cloud"],"correctAnswer":"AWS"}>
+	at org.junit.jupiter.api.AssertionFailureBuilder.build(AssertionFailureBuilder.java:151)
+	at org.junit.jupiter.api.AssertionFailureBuilder.buildAndThrow(AssertionFailureBuilder.java:132)
+	at org.junit.jupiter.api.AssertEquals.failNotEqual(AssertEquals.java:197)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:182)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:177)
+	at org.junit.jupiter.api.Assertions.assertEquals(Assertions.java:1145)
+	at com.LearnRest.first_restApp.survey.SurveyResourceIT.retrirveSurveyQuestionById_Basic(SurveyResourceIT.java:36)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+

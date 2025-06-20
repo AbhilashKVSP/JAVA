@@ -1,0 +1,6 @@
+1716099942468	Copy compilation unit
+1716100171610	Rename type 'LoginController2'
+1716318694230	Extract method 'getLoggedInUserName'
+1716319177184	Extract method 'createNewUser'
+1716319225054	Inline local variable 'userName'
+1716319242012	Inline local variable 'password'

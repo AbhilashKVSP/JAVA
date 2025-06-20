@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ApnaJava/ApnaJava.iml" filepath="$PROJECT_DIR$/ApnaJava/ApnaJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BitManipulation/BitManipulation.iml" filepath="$PROJECT_DIR$/BitManipulation/BitManipulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA.iml" filepath="$PROJECT_DIR$/.idea/JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPSBasics/OOPSBasics.iml" filepath="$PROJECT_DIR$/OOPSBasics/OOPSBasics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatternPractice/PatternPractice.iml" filepath="$PROJECT_DIR$/PatternPractice/PatternPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ScratchPad/ScratchPad.iml" filepath="$PROJECT_DIR$/ScratchPad/ScratchPad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Sorting/Sorting.iml" />
+    </modules>
+  </component>
+</project>

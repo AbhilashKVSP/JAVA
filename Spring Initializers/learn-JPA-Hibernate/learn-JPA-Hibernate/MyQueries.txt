@@ -1,0 +1,6 @@
+insert into Course(id,name,author)
+values(1,'Learn FluidDynamics','Abhilash');
+
+select * from course
+
+delete from course where id=1
